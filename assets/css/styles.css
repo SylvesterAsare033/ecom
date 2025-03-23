@@ -1,0 +1,8 @@
+.parallax {
+    background-image: url('../../images/CPS4.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+}
